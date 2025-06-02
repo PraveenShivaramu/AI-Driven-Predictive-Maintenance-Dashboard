@@ -3,7 +3,6 @@ pandas==2.2.2
 plotly==5.20.0
 scikit-learn==1.4.2
 
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
