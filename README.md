@@ -43,5 +43,6 @@ Make sure your CSV file includes at least:
 
 ## 📎 Author
 
-Built by **Praveen Shivaramu** 
+Built by:**Praveen Shivaramu** 
 
+LinkedIn: https://www.linkedin.com/in/praveen-shivaramu-a3a54b218/
